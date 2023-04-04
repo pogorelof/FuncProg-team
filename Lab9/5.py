@@ -17,3 +17,5 @@ def double(x):
 new_func = compose(square, double)
 
 result = new_func(5)
+
+print(result)
