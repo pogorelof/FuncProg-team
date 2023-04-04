@@ -16,7 +16,7 @@ def FuncFoo(students): #находит общее количество букв 
 print(FuncFoo(list_of_students))
 
 
-#нефункциональная функция
+#нефункциональная функция.
 #не возвращает никакие значения
 def NotFuncFoo(students):
     for i in list_of_students:
