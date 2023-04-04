@@ -22,8 +22,4 @@ def NotFuncFoo(students):
     for i in list_of_students:
         print(i)
 
-<<<<<<< HEAD
 NotFuncFoo(list_of_students)
-=======
-NotFuncFoo(list_of_students)
->>>>>>> 5e8fb3918e66a3dcc8bf412da2646fdf82d8ad0c
